@@ -1,6 +1,3 @@
-Write a shell script to print file content details. 
-Like No of Words, lines, characters.  You must accept input from the user.
-
 #!/bin/bash
 
 # Prompt the user for a filename
