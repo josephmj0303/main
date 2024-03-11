@@ -1,7 +1,4 @@
 #!/bin/bash
-# Print server name
-echo "Name: $(hostname)"
-
 # Print Memory details
 echo "Memory:"
 free -h
